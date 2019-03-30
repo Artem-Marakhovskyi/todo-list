@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToDo list</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="title_label">Item Title:</string>
+    <string name="details_label">Item Details:</string>
+    <string name="creation_date_label">Creation Date:</string>
+    <string name="is_completed_label">Completed:</string>
+    <string name="no_items">There are no items to do. Relax!</string>
+</resources>
